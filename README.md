@@ -1,2 +1,2 @@
 # sinongan
-SinOnGaN code named project
+SiNonGaN code named project
