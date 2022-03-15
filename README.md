@@ -60,10 +60,31 @@ Objectives of the experimental study:
 
 ### Project News*
 
+#### January 2022
+* New article from our project: P. Narin, E. Kutlu-Narin, G. Atmaca, B. Sarikavak-Lisesivdin, S.B. Lisesivdin, E. Ozbay "A structural analysis of ultrathin barrier (In)AlN/GaN heterostructures for GaN-based highfrequency power electronics" Surf. Interface Anal. (https://doi.org/10.1002/sia.7067) (2022).
+
+#### June 2018
+* New thesis from our project: M. Ozturk, (Gazi University, Institute of Science, Physics), Electrical Characteristics and Scattering Analysis of Ultrathin Barrier GaN-Based High Electron Mobility Transistors, 2015 - 2018.
+#### June 2017
+* New article from our project: J. M. Al Abbas, P. Narin, G. Atmaca, E. Kutlu, B. Sarikavak-Lisesivdin, S. B. Lisesivdin "The effect of doping in different layers on 2DEG for ultrathin-barrier AlN/GaN heterostructures" Optoelectron. Adv. Mater.-Rapid Comm. 11, 328 (2017).
+
+#### May 2017
+* New article from our project: J. M. All Abbas, G. Atmaca, P. Narin, E. Kutlu, B. Sarikavak-Lisesivdin, S. B. Lisesivdin "A Comparative Study of AlGaN and InGaN Back-Barriers in Ultrathin-Barrier AlN/GaN Heterostructures" J. Elec. Mater. 46, 5278 (2017).
+
+#### September 2016
+* New proceeding from our project: J. M. Al Abbas, G. Atmaca, P. Narin, E. Kutlu, B. Sarikavak-Lisesivdin, S. B. Lisesivdin "Numerical Investigation Of 2DEG Properties In Ultrathin-Barrier AlN/GaN Heterostructures with AlGaN and InGaN Back-Barriers" 18th National Workshop on Optics, Electro-optics and Photonics, Ankara, P47, (2016).
+* New proceeding from our project: M. Ozturk, E. Arslan, P. Narin, S. B. Lisesivdin, B. Sarikavak-Lisesivdin, E. Ozbay "Ultraince Bariyerli GaN-Temelli HEMT'lerde Elektron Gazının Elektriksel Özellikleri ve Saçılma Analizleri" 18th National Workshop on Optics, Electro-optics and Photonics, Ankara, P50, (2016).
+* New thesis from our project: J. M. M. J. Al-Abbas, (Gazi University, Institute of Science, Physics),Simulation and optimation
+of GaN-based ultrathin barrier high electron mobility transistors, 2014 - 2016. 
 #### April 2016
-Project is finished.
+* Project is finished.
+* J. M. Al Abbas, P. Narin, E. Kutlu, G. Atmaca, S. B. Lisesivdin, B. Sarikavak-Lisesivdin "P-tipi ve N-tipi InGaN Arka-Bariyerli Ultraince AlInN/GaN Çoklu Yapılarda İki Boyutlu Elektron Gazı" ADIM Physics Congress V, p.163 (2016).
+* J. M. Al Abbas, P. Narin, G. Atmaca, E. Kutlu, S. B. Lisesivdin, B. Sarikavak-Lisesivdin "Ultraince Bariyerli AlN/GaN Çoklu Yapılarda Farklı Katmanların 2BEG Üzerine Etkisi" ADIM Physics Congress V, p.164 (2016).
+
+#### December 2015
+* New article from our project: G. Atmaca, P. Narin, B. Sarikavak-Lisesivdin, S. B. Lisesivdin "Two Dimensional Electron Gas in a Hybrid GaN/InGaN/ZnO Heterostructure with Ultrathin InGaN Channel Layer" Physica E 79, 67 (2016).
 
 #### April 2014
-Project is started.
+* Project is started.
 
 *: Project site is prepared after project was finished.
